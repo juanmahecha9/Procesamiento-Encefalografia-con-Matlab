@@ -1,0 +1,3 @@
+Programa en matlab para pocesamiento de señales electroencefalograficas adquiridas por modulos de National Instruments, se genera la diferencia de dos archivos en excel, esto se debe a que la adquicision de las señales es multi-canal.
+************************************
+Programa realizado en matlab, con el fin de realizar el filtrado de señales electroencefalográficas  adquiridad mediante un modulo de National Instruments, a partir de la transformada de Fourier realiza el filtrado de los datos obtenidos y logra determinar la onda del EEG predominante en el momento
